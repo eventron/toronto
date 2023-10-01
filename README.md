@@ -1,2 +1,1 @@
-# toronto-canada
 Toronto, Canada
