@@ -15,8 +15,9 @@ Get ready to immerse yourself in a world of innovation, knowledge sharing, and e
 
 Welcome aboard! 🙌✨
 
-# Upcoming Events...
+<h1 align="center"> Upcoming Events 🥳 </h1>
 
 | Name of the Event | Date | Location | Sponsors |
 | --- | --- | --- | --- |
 | ![Event Image](https://github.com/eventron/toronto-canada/assets/97366282/dcc65e8e-5ba5-48a5-a3a4-33b8091367a0) | October 19, 2023 | [RBC WaterPark Place](https://maps.app.goo.gl/RnB6zhCfRjP1ioh49) | [Cloud Native Computing Foundation](https://github.com/cncf), KDSDM, K8SUG YouTube, CloudCasa by Catalogic, [JFrog](https://github.com/jfrog) |
+| ![https___cdn evbuc com_images_571571019_242117383401_1_original](https://github.com/eventron/toronto-canada/assets/97366282/aeb88425-40d7-4fe3-8767-db39133ac746) | October 21, 2023 | TBD | [Google](https://github.com/google) | 
